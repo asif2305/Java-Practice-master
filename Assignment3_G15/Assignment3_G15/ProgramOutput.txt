@@ -1,0 +1,3 @@
+The value of the trees root node is: 5
+The combined value of the all the trees nodes is: 160
+The combined value of the all the trees leafs is: 105
